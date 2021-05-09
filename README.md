@@ -10,7 +10,7 @@ This ETL function will read all three data files and create three data frames.
 
 ## Deliverable 2: Extract and Transform the Wikipedia Data
 
-This ETL function will take the Wikipedia data and merge it with the Kaggle data. Try and Except blocks are used to determine if any errors occur during the process,
+This ETL function will take the Wikipedia data and merge it with the Kaggle data. Try and Except blocks are used to determine if any errors occur during the process.
 
 ## Deliverable 3: Extract and Transform the Kaggle data
 

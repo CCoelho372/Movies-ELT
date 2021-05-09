@@ -18,8 +18,9 @@ This ETL function took Kaggle metadata and MovieLens rating data and transformed
 
 ## Deliverable 4: Create the Movie Database
 
-This function will put the data into a SQL database.This will allow for easier data Analysis on movie ratings moving forward.
+This function will put the data into a SQL database.This will allow for easier data Analysis on movie ratings moving forward. Code can be seen in the files. Connections for the module assignment and the challenge could not be made. Below is the png of PostgreSQL view. Kernel would continue to run on movies_df.to_sql(name='movies', con=engine)
 
+![alt text](https://github.com/CCoelho372/Movies-ETL/blob/main/Resources/PostgreSQL_layout.PNG)
 
 ## Summary
 
